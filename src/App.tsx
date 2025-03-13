@@ -4,7 +4,7 @@ import Essential from "@/components/Essential";
 import { ColorModeButton } from "@/components/ui/color-mode";
 import { Provider } from "@/components/ui/provider";
 
-import logoUrl from "./logo_black_white.png";
+import  "./App.css";
 
 function App() {
 
@@ -16,10 +16,10 @@ function App() {
                         style={{
                             display: "flex",
                             justifyContent: "space-around",
-                            margin: "5px",
+                            padding: "8px",
                         }}
                     >
-                        <img src={logoUrl} alt={"Enso"} style={{ height: "50px" }} />
+                        <img src={"/logo_black_white.png"} alt={"Enso"} style={{ height: "50px" }} />
 
                         <div
                             style={{

@@ -1,3 +1,3 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Chakra-UI + RainbowKit + Rainbowkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React work wallets and Enso SDK
